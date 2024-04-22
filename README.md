@@ -314,6 +314,7 @@ Lib           | Title
 ------------- | -------------
 [GameFoundry/bsf](https://github.com/GameFoundry/bsf)| Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
 [raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming http://www.raylib.com
+[Dodge Graphics Library](https://github.com/JaihsonK/DGL) | A simple C library for 2D game graphics, based on raylib
 [floooh/oryol](https://github.com/floooh/oryol) | A small, portable and extensible C++ 3D coding framework
 [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) | The Forge Cross-Platform Rendering Framework PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4
 [mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
